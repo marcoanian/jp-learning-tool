@@ -1,0 +1,47 @@
+{
+  "kyou": {
+    "hiragana": "きょう",
+    "romaji": "kyou",
+    "german": "heute"
+  },
+  "ashita": {
+    "hiragana": "あした",
+    "romaji": "ashita",
+    "german": "morgen"
+  },
+  "kinou": {
+    "hiragana": "きのう",
+    "romaji": "kinou",
+    "german": "gestern"
+  },
+  "raishuu": {
+    "hiragana": "らいしゅう",
+    "romaji": "raishuu",
+    "german": "nächste Woche"
+  },
+  "raigetsu": {
+    "hiragana": "らいげつ",
+    "romaji": "raigetsu",
+    "german": "nächster Monat"
+  },
+  "rainen": {
+    "hiragana": "らいねん",
+    "romaji": "rainen",
+    "german": "nächstes Jahr"
+  },
+  "senshuu": {
+    "hiragana": "せんしゅう",
+    "romaji": "senshuu",
+    "german": "letzte Woche"
+  },
+  "sengetsu": {
+    "hiragana": "せんげつ",
+    "romaji": "sengetsu",
+    "german": "letzter Monat"
+  },
+  "kyonen": {
+    "hiragana": "きょねん",
+    "romaji": "kyonen",
+    "german": "letztes Jahr"
+  }
+}

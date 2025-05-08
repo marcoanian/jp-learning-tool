@@ -1,0 +1,362 @@
+{
+    "watashi": {
+        "german": "ich",
+        "romaji": "watashi",
+        "hiragana": "わたし",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/watashi.mp3"
+    },
+    "anata": {
+        "german": "du",
+        "romaji": "anata",
+        "hiragana": "あなた",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/anata.mp3"
+    },
+    "kare": {
+        "german": "er",
+        "romaji": "kare",
+        "hiragana": "かれ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/kare.mp3"
+    },
+    "kanojo": {
+        "german": "sie",
+        "romaji": "kanojo",
+        "hiragana": "かのじょ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/kanojo.mp3"
+    },
+    "hai": {
+        "german": "ja",
+        "romaji": "hai",
+        "hiragana": "はい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/hai.mp3"
+    },
+    "iie": {
+        "german": "nein",
+        "romaji": "iie",
+        "hiragana": "いいえ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/iie.mp3"
+    },
+    "arigatou": {
+        "german": "danke",
+        "romaji": "arigatou",
+        "hiragana": "ありがとう",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/arigatou.mp3"
+    },
+    "onegai": {
+        "german": "bitte",
+        "romaji": "onegai",
+        "hiragana": "おねがい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/onegai.mp3"
+    },
+    "ohayou": {
+        "german": "guten Morgen",
+        "romaji": "ohayou",
+        "hiragana": "おはよう",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/ohayou.mp3"
+    },
+    "konbanwa": {
+        "german": "guten Abend",
+        "romaji": "konbanwa",
+        "hiragana": "こんばんは",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/konbanwa.mp3"
+    },
+    "oyasumi": {
+        "german": "gute Nacht",
+        "romaji": "oyasumi",
+        "hiragana": "おやすみ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/oyasumi.mp3"
+    },
+    "sayonara": {
+        "german": "auf Wiedersehen",
+        "romaji": "sayonara",
+        "hiragana": "さようなら",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/sayonara.mp3"
+    },
+    "sumimasen": {
+        "german": "Entschuldigung",
+        "romaji": "sumimasen",
+        "hiragana": "すみません",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/sumimasen.mp3"
+    },
+    "gomennasai": {
+        "german": "Entschuldigung (tief)",
+        "romaji": "gomennasai",
+        "hiragana": "ごめんなさい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/gomennasai.mp3"
+    },
+    "nihon": {
+        "german": "Japan",
+        "romaji": "nihon",
+        "hiragana": "にほん",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/nihon.mp3"
+    },
+    "nihongo": {
+        "german": "japanisch",
+        "romaji": "nihongo",
+        "hiragana": "にほんご",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/nihongo.mp3"
+    },
+    "eigo": {
+        "german": "englisch",
+        "romaji": "eigo",
+        "hiragana": "えいご",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/eigo.mp3"
+    },
+    "kore": {
+        "german": "dies",
+        "romaji": "kore",
+        "hiragana": "これ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/kore.mp3"
+    },
+    "sore": {
+        "german": "das",
+        "romaji": "sore",
+        "hiragana": "それ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/sore.mp3"
+    },
+    "are": {
+        "german": "jenes",
+        "romaji": "are",
+        "hiragana": "あれ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/are.mp3"
+    },
+    "dore": {
+        "german": "welches",
+        "romaji": "dore",
+        "hiragana": "どれ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/dore.mp3"
+    },
+    "itsu": {
+        "german": "wann",
+        "romaji": "itsu",
+        "hiragana": "いつ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/itsu.mp3"
+    },
+    "nani": {
+        "german": "was",
+        "romaji": "nani",
+        "hiragana": "なに",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/nani.mp3"
+    },
+    "ikura": {
+        "german": "wie viel",
+        "romaji": "ikura",
+        "hiragana": "いくら",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/ikura.mp3"
+    },
+    "takai": {
+        "german": "teuer",
+        "romaji": "takai",
+        "hiragana": "たかい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/takai.mp3"
+    },
+    "yasui": {
+        "german": "billig",
+        "romaji": "yasui",
+        "hiragana": "やすい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/yasui.mp3"
+    },
+    "oishii": {
+        "german": "lecker",
+        "romaji": "oishii",
+        "hiragana": "おいしい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/oishii.mp3"
+    },
+    "mazui": {
+        "german": "schlecht schmeckend",
+        "romaji": "mazui",
+        "hiragana": "まずい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/mazui.mp3"
+    },
+    "atsui": {
+        "german": "heiß",
+        "romaji": "atsui",
+        "hiragana": "あつい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/atsui.mp3"
+    },
+    "samui": {
+        "german": "kalt",
+        "romaji": "samui",
+        "hiragana": "さむい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/samui.mp3"
+    },
+    "kawaii": {
+        "german": "süß",
+        "romaji": "kawaii",
+        "hiragana": "かわいい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/kawaii.mp3"
+    },
+    "kowai": {
+        "german": "gruselig",
+        "romaji": "kowai",
+        "hiragana": "こわい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/kowai.mp3"
+    },
+    "tanoshii": {
+        "german": "lustig",
+        "romaji": "tanoshii",
+        "hiragana": "たのしい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/tanoshii.mp3"
+    },
+    "kurai": {
+        "german": "dunkel",
+        "romaji": "kurai",
+        "hiragana": "くらい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/kurai.mp3"
+    },
+    "akarui": {
+        "german": "hell",
+        "romaji": "akarui",
+        "hiragana": "あかるい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/akarui.mp3"
+    },
+    "ii": {
+        "german": "gut",
+        "romaji": "ii",
+        "hiragana": "いい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/ii.mp3"
+    },
+    "warui": {
+        "german": "schlecht",
+        "romaji": "warui",
+        "hiragana": "わるい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/warui.mp3"
+    },
+    "omoi": {
+        "german": "schwer",
+        "romaji": "omoi",
+        "hiragana": "おもい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/omoi.mp3"
+    },
+    "karui": {
+        "german": "leicht",
+        "romaji": "karui",
+        "hiragana": "かるい",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/karui.mp3"
+    },
+    "hajimemashite": {
+        "german": "freut mich",
+        "romaji": "hajimemashite",
+        "hiragana": "はじめまして",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/hajimemashite.mp3"
+    },
+    "douzo": {
+        "german": "bitte",
+        "romaji": "douzo",
+        "hiragana": "どうぞ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/douzo.mp3"
+    },
+    "doko": {
+        "german": "wo",
+        "romaji": "doko",
+        "hiragana": "どこ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/doko.mp3"
+    },
+    "nan": {
+        "german": "was",
+        "romaji": "nan",
+        "hiragana": "なん",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/nan.mp3"
+    },
+    "dare": {
+        "german": "wer",
+        "romaji": "dare",
+        "hiragana": "だれ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/dare.mp3"
+    },
+    "zero": {
+        "german": "null",
+        "romaji": "zero",
+        "hiragana": "ぜろ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/zero.mp3"
+    },
+    "ichi": {
+        "german": "eins",
+        "romaji": "ichi",
+        "hiragana": "いち",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/ichi.mp3"
+    },
+    "ni": {
+        "german": "zwei",
+        "romaji": "ni",
+        "hiragana": "に",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/ni.mp3"
+    },
+    "san": {
+        "german": "drei",
+        "romaji": "san",
+        "hiragana": "さん",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/san.mp3"
+    },
+    "yon": {
+        "german": "vier",
+        "romaji": "yon",
+        "hiragana": "よん",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/yon.mp3"
+    },
+    "go": {
+        "german": "fünf",
+        "romaji": "go",
+        "hiragana": "ご",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/go.mp3"
+    },
+    "roku": {
+        "german": "sechs",
+        "romaji": "roku",
+        "hiragana": "ろく",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/roku.mp3"
+    },
+    "nana": {
+        "german": "sieben",
+        "romaji": "nana",
+        "hiragana": "なな",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/nana.mp3"
+    },
+    "hachi": {
+        "german": "acht",
+        "romaji": "hachi",
+        "hiragana": "はち",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/hachi.mp3"
+    },
+    "kyuu": {
+        "german": "neun",
+        "romaji": "kyuu",
+        "hiragana": "きゅう",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/kyuu.mp3"
+    },
+    "juu": {
+        "german": "zehn",
+        "romaji": "juu",
+        "hiragana": "じゅう",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/juu.mp3"
+    },
+    "mizu": {
+        "german": "wasser",
+        "romaji": "mizu",
+        "hiragana": "みず",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/mizu.mp3"
+    },
+    "tabemono": {
+        "german": "essen",
+        "romaji": "tabemono",
+        "hiragana": "たべもの",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/tabemono.mp3"
+    },
+    "nomimono": {
+        "german": "trinken",
+        "romaji": "nomimono",
+        "hiragana": "のみもの",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/nomimono.mp3"
+    },
+    "ie": {
+        "german": "haus",
+        "romaji": "ie",
+        "hiragana": "いえ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/ie.mp3"
+    },
+    "kuruma": {
+        "german": "auto",
+        "romaji": "kuruma",
+        "hiragana": "くるま",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/kuruma.mp3"
+    }
+}

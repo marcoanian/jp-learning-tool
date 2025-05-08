@@ -1,0 +1,357 @@
+{
+    "あ": {
+        "hiragana": "あ",
+        "romaji": "a",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/あ.mp3"
+    },
+    "い": {
+        "hiragana": "い",
+        "romaji": "i",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/い.mp3"
+    },
+    "う": {
+        "hiragana": "う",
+        "romaji": "u",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/う.mp3"
+    },
+    "え": {
+        "hiragana": "え",
+        "romaji": "e",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/え.mp3"
+    },
+    "お": {
+        "hiragana": "お",
+        "romaji": "o",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/お.mp3"
+    },
+    "か": {
+        "hiragana": "か",
+        "romaji": "ka",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/か.mp3"
+    },
+    "き": {
+        "hiragana": "き",
+        "romaji": "ki",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/き.mp3"
+    },
+    "く": {
+        "hiragana": "く",
+        "romaji": "ku",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/く.mp3"
+    },
+    "け": {
+        "hiragana": "け",
+        "romaji": "ke",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/け.mp3"
+    },
+    "こ": {
+        "hiragana": "こ",
+        "romaji": "ko",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/こ.mp3"
+    },
+    "さ": {
+        "hiragana": "さ",
+        "romaji": "sa",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/さ.mp3"
+    },
+    "し": {
+        "hiragana": "し",
+        "romaji": "shi",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/し.mp3"
+    },
+    "す": {
+        "hiragana": "す",
+        "romaji": "su",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/す.mp3"
+    },
+    "せ": {
+        "hiragana": "せ",
+        "romaji": "se",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/せ.mp3"
+    },
+    "そ": {
+        "hiragana": "そ",
+        "romaji": "so",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/そ.mp3"
+    },
+    "た": {
+        "hiragana": "た",
+        "romaji": "ta",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/た.mp3"
+    },
+    "ち": {
+        "hiragana": "ち",
+        "romaji": "chi",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ち.mp3"
+    },
+    "つ": {
+        "hiragana": "つ",
+        "romaji": "tsu",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/つ.mp3"
+    },
+    "て": {
+        "hiragana": "て",
+        "romaji": "te",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/て.mp3"
+    },
+    "と": {
+        "hiragana": "と",
+        "romaji": "to",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/と.mp3"
+    },
+    "な": {
+        "hiragana": "な",
+        "romaji": "na",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/な.mp3"
+    },
+    "に": {
+        "hiragana": "に",
+        "romaji": "ni",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/に.mp3"
+    },
+    "ぬ": {
+        "hiragana": "ぬ",
+        "romaji": "nu",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ぬ.mp3"
+    },
+    "ね": {
+        "hiragana": "ね",
+        "romaji": "ne",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ね.mp3"
+    },
+    "の": {
+        "hiragana": "の",
+        "romaji": "no",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/の.mp3"
+    },
+    "は": {
+        "hiragana": "は",
+        "romaji": "ha",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/は.mp3"
+    },
+    "ひ": {
+        "hiragana": "ひ",
+        "romaji": "hi",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ひ.mp3"
+    },
+    "ふ": {
+        "hiragana": "ふ",
+        "romaji": "fu",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ふ.mp3"
+    },
+    "へ": {
+        "hiragana": "へ",
+        "romaji": "he",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/へ.mp3"
+    },
+    "ほ": {
+        "hiragana": "ほ",
+        "romaji": "ho",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ほ.mp3"
+    },
+    "ま": {
+        "hiragana": "ま",
+        "romaji": "ma",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ま.mp3"
+    },
+    "み": {
+        "hiragana": "み",
+        "romaji": "mi",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/み.mp3"
+    },
+    "む": {
+        "hiragana": "む",
+        "romaji": "mu",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/む.mp3"
+    },
+    "め": {
+        "hiragana": "め",
+        "romaji": "me",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/め.mp3"
+    },
+    "も": {
+        "hiragana": "も",
+        "romaji": "mo",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/も.mp3"
+    },
+    "や": {
+        "hiragana": "や",
+        "romaji": "ya",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/や.mp3"
+    },
+    "ゆ": {
+        "hiragana": "ゆ",
+        "romaji": "yu",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ゆ.mp3"
+    },
+    "よ": {
+        "hiragana": "よ",
+        "romaji": "yo",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/よ.mp3"
+    },
+    "ら": {
+        "hiragana": "ら",
+        "romaji": "ra",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ら.mp3"
+    },
+    "り": {
+        "hiragana": "り",
+        "romaji": "ri",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/り.mp3"
+    },
+    "る": {
+        "hiragana": "る",
+        "romaji": "ru",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/る.mp3"
+    },
+    "れ": {
+        "hiragana": "れ",
+        "romaji": "re",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/れ.mp3"
+    },
+    "ろ": {
+        "hiragana": "ろ",
+        "romaji": "ro",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ろ.mp3"
+    },
+    "わ": {
+        "hiragana": "わ",
+        "romaji": "wa",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/わ.mp3"
+    },
+    "を": {
+        "hiragana": "を",
+        "romaji": "wo",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/を.mp3"
+    },
+    "ん": {
+        "hiragana": "ん",
+        "romaji": "n",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ん.mp3"
+    },
+    "が": {
+        "hiragana": "が",
+        "romaji": "ga",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/が.mp3"
+    },
+    "ぎ": {
+        "hiragana": "ぎ",
+        "romaji": "gi",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ぎ.mp3"
+    },
+    "ぐ": {
+        "hiragana": "ぐ",
+        "romaji": "gu",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ぐ.mp3"
+    },
+    "げ": {
+        "hiragana": "げ",
+        "romaji": "ge",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/げ.mp3"
+    },
+    "ご": {
+        "hiragana": "ご",
+        "romaji": "go",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ご.mp3"
+    },
+    "ざ": {
+        "hiragana": "ざ",
+        "romaji": "za",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ざ.mp3"
+    },
+    "じ": {
+        "hiragana": "じ",
+        "romaji": "ji",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/じ.mp3"
+    },
+    "ず": {
+        "hiragana": "ず",
+        "romaji": "zu",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ず.mp3"
+    },
+    "ぜ": {
+        "hiragana": "ぜ",
+        "romaji": "ze",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ぜ.mp3"
+    },
+    "ぞ": {
+        "hiragana": "ぞ",
+        "romaji": "zo",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ぞ.mp3"
+    },
+    "だ": {
+        "hiragana": "だ",
+        "romaji": "da",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/だ.mp3"
+    },
+    "ぢ": {
+        "hiragana": "ぢ",
+        "romaji": "ji",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ぢ.mp3"
+    },
+    "づ": {
+        "hiragana": "づ",
+        "romaji": "zu",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/づ.mp3"
+    },
+    "で": {
+        "hiragana": "で",
+        "romaji": "de",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/で.mp3"
+    },
+    "ど": {
+        "hiragana": "ど",
+        "romaji": "do",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ど.mp3"
+    },
+    "ば": {
+        "hiragana": "ば",
+        "romaji": "ba",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ば.mp3"
+    },
+    "び": {
+        "hiragana": "び",
+        "romaji": "bi",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/び.mp3"
+    },
+    "ぶ": {
+        "hiragana": "ぶ",
+        "romaji": "bu",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ぶ.mp3"
+    },
+    "べ": {
+        "hiragana": "べ",
+        "romaji": "be",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/べ.mp3"
+    },
+    "ぼ": {
+        "hiragana": "ぼ",
+        "romaji": "bo",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ぼ.mp3"
+    },
+    "ぱ": {
+        "hiragana": "ぱ",
+        "romaji": "pa",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ぱ.mp3"
+    },
+    "ぴ": {
+        "hiragana": "ぴ",
+        "romaji": "pi",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ぴ.mp3"
+    },
+    "ぷ": {
+        "hiragana": "ぷ",
+        "romaji": "pu",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ぷ.mp3"
+    },
+    "ぺ": {
+        "hiragana": "ぺ",
+        "romaji": "pe",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ぺ.mp3"
+    },
+    "ぽ": {
+        "hiragana": "ぽ",
+        "romaji": "po",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/alphabet/ぽ.mp3"
+    }
+}

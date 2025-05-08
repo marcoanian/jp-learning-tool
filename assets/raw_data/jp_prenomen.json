@@ -1,0 +1,157 @@
+{
+  "watashi": {
+    "hiragana": "わたし",
+    "romaji": "watashi",
+    "german": "ich"
+  },
+  "watashi_wa": {
+    "hiragana": "わたしは",
+    "romaji": "watashi wa",
+    "german": "ich (Subjekt, betont)"
+  },
+  "watashi_o": {
+    "hiragana": "わたしを",
+    "romaji": "watashi o",
+    "german": "mich (Objekt)"
+  },
+  "watashi_no": {
+    "hiragana": "わたしの",
+    "romaji": "watashi no",
+    "german": "mein(e)"
+  },
+  "watashi_no_mono": {
+    "hiragana": "わたしのもの",
+    "romaji": "watashi no mono",
+    "german": "meins"
+  },
+  "anata": {
+    "hiragana": "あなた",
+    "romaji": "anata",
+    "german": "du"
+  },
+  "anata_wa": {
+    "hiragana": "あなたは",
+    "romaji": "anata wa",
+    "german": "du (Subjekt, betont)"
+  },
+  "anata_no": {
+    "hiragana": "あなたの",
+    "romaji": "anata no",
+    "german": "dein(e)"
+  },
+  "anata_no_mono": {
+    "hiragana": "あなたのもの",
+    "romaji": "anata no mono",
+    "german": "deins"
+  },
+  "kare": {
+    "hiragana": "かれ",
+    "romaji": "kare",
+    "german": "er"
+  },
+  "kanojo": {
+    "hiragana": "かのじょ",
+    "romaji": "kanojo",
+    "german": "sie (fem.)"
+  },
+  "kare_no": {
+    "hiragana": "かれの",
+    "romaji": "kare no",
+    "german": "sein(e)"
+  },
+  "kanojo_no": {
+    "hiragana": "かのじょの",
+    "romaji": "kanojo no",
+    "german": "ihr(e)"
+  },
+  "watashitachi": {
+    "hiragana": "わたしたち",
+    "romaji": "watashitachi",
+    "german": "wir"
+  },
+  "anata_tachi": {
+    "hiragana": "あなたたち",
+    "romaji": "anata-tachi",
+    "german": "ihr"
+  },
+  "karera": {
+    "hiragana": "かれら",
+    "romaji": "karera",
+    "german": "sie (pl. mask.)"
+  },
+  "kanojotachi": {
+    "hiragana": "かのじょたち",
+    "romaji": "kanojotachi",
+    "german": "sie (pl. fem.)"
+  },
+  "jibun": {
+    "hiragana": "じぶん",
+    "romaji": "jibun",
+    "german": "selbst / sich"
+  },
+  "boku": {
+    "hiragana": "ぼく",
+    "romaji": "boku",
+    "german": "ich (männlich, höflich)"
+  },
+  "ore": {
+    "hiragana": "おれ",
+    "romaji": "ore",
+    "german": "ich (männlich, locker)"
+  },
+  "dare": {
+    "hiragana": "だれ",
+    "romaji": "dare",
+    "german": "wer"
+  },
+  "doko": {
+    "hiragana": "どこ",
+    "romaji": "doko",
+    "german": "wo"
+  },
+  "itsu": {
+    "hiragana": "いつ",
+    "romaji": "itsu",
+    "german": "wann"
+  },
+  "nani": {
+    "hiragana": "なに",
+    "romaji": "nani",
+    "german": "was"
+  },
+  "naze": {
+    "hiragana": "なぜ",
+    "romaji": "naze",
+    "german": "warum"
+  },
+  "dōshite": {
+    "hiragana": "どうして",
+    "romaji": "doushite",
+    "german": "wieso / weshalb"
+  },
+  "dō": {
+    "hiragana": "どう",
+    "romaji": "dou",
+    "german": "wie"
+  },
+  "sore_wa_nani": {
+    "hiragana": "それは なに？",
+    "romaji": "sore wa nani?",
+    "german": "Was ist das?"
+  },
+  "kore_wa_nani": {
+    "hiragana": "これは なに？",
+    "romaji": "kore wa nani?",
+    "german": "Was ist das hier?"
+  },
+  "sore_wa_dare": {
+    "hiragana": "それは だれ？",
+    "romaji": "sore wa dare?",
+    "german": "Wer ist das?"
+  },
+  "doko_ni": {
+    "hiragana": "どこに",
+    "romaji": "doko ni",
+    "german": "wohin"
+  }
+}

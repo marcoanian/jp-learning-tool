@@ -1,0 +1,218 @@
+{
+    "getsuyoubi": {
+        "german": "Montag",
+        "romaji": "getsuyoubi",
+        "hiragana": "げつようび",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/getsuyoubi.mp3"
+    },
+    "kayoubi": {
+        "german": "Dienstag",
+        "romaji": "kayoubi",
+        "hiragana": "かようび",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/kayoubi.mp3"
+    },
+    "suiyoubi": {
+        "german": "Mittwoch",
+        "romaji": "suiyoubi",
+        "hiragana": "すいようび",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/suiyoubi.mp3"
+    },
+    "mokuyoubi": {
+        "german": "Donnerstag",
+        "romaji": "mokuyoubi",
+        "hiragana": "もくようび",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/mokuyoubi.mp3"
+    },
+    "kinyoubi": {
+        "german": "Freitag",
+        "romaji": "kinyoubi",
+        "hiragana": "きんようび",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/kinyoubi.mp3"
+    },
+    "doyoubi": {
+        "german": "Samstag",
+        "romaji": "doyoubi",
+        "hiragana": "どようび",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/doyoubi.mp3"
+    },
+    "nichiyoubi": {
+        "german": "Sonntag",
+        "romaji": "nichiyoubi",
+        "hiragana": "にちようび",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/nichiyoubi.mp3"
+    },
+    "ichi": {
+        "german": "eins",
+        "romaji": "ichi",
+        "hiragana": "いち",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/ichi.mp3"
+    },
+    "ni": {
+        "german": "zwei",
+        "romaji": "ni",
+        "hiragana": "に",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/ni.mp3"
+    },
+    "san": {
+        "german": "drei",
+        "romaji": "san",
+        "hiragana": "さん",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/san.mp3"
+    },
+    "yon": {
+        "german": "vier",
+        "romaji": "yon",
+        "hiragana": "よん",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/yon.mp3"
+    },
+    "go": {
+        "german": "fünf",
+        "romaji": "go",
+        "hiragana": "ご",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/go.mp3"
+    },
+    "roku": {
+        "german": "sechs",
+        "romaji": "roku",
+        "hiragana": "ろく",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/roku.mp3"
+    },
+    "nana": {
+        "german": "sieben",
+        "romaji": "nana",
+        "hiragana": "なな",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/nana.mp3"
+    },
+    "hachi": {
+        "german": "acht",
+        "romaji": "hachi",
+        "hiragana": "はち",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/hachi.mp3"
+    },
+    "kyuu": {
+        "german": "neun",
+        "romaji": "kyuu",
+        "hiragana": "きゅう",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/kyuu.mp3"
+    },
+    "juu": {
+        "german": "zehn",
+        "romaji": "juu",
+        "hiragana": "じゅう",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/juu.mp3"
+    },
+    "suru": {
+        "german": "machen / tun",
+        "romaji": "suru",
+        "hiragana": "する",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/suru.mp3"
+    },
+    "iku": {
+        "german": "gehen",
+        "romaji": "iku",
+        "hiragana": "いく",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/iku.mp3"
+    },
+    "kuru": {
+        "german": "kommen",
+        "romaji": "kuru",
+        "hiragana": "くる",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/kuru.mp3"
+    },
+    "taberu": {
+        "german": "essen",
+        "romaji": "taberu",
+        "hiragana": "たべる",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/taberu.mp3"
+    },
+    "miru": {
+        "german": "sehen",
+        "romaji": "miru",
+        "hiragana": "みる",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/miru.mp3"
+    },
+    "kiku": {
+        "german": "hören / fragen",
+        "romaji": "kiku",
+        "hiragana": "きく",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/kiku.mp3"
+    },
+    "hanasu": {
+        "german": "sprechen",
+        "romaji": "hanasu",
+        "hiragana": "はなす",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/hanasu.mp3"
+    },
+    "aru": {
+        "german": "sein / haben (für Dinge)",
+        "romaji": "aru",
+        "hiragana": "ある",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/aru.mp3"
+    },
+    "iru": {
+        "german": "sein / haben (für Lebewesen)",
+        "romaji": "iru",
+        "hiragana": "いる",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/iru.mp3"
+    },
+    "nomu": {
+        "german": "trinken",
+        "romaji": "nomu",
+        "hiragana": "のむ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/nomu.mp3"
+    },
+    "kyou": {
+        "german": "heute",
+        "romaji": "kyou",
+        "hiragana": "きょう",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/kyou.mp3"
+    },
+    "ashita": {
+        "german": "morgen",
+        "romaji": "ashita",
+        "hiragana": "あした",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/ashita.mp3"
+    },
+    "kinou": {
+        "german": "gestern",
+        "romaji": "kinou",
+        "hiragana": "きのう",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/kinou.mp3"
+    },
+    "raishuu": {
+        "german": "nächste Woche",
+        "romaji": "raishuu",
+        "hiragana": "らいしゅう",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/raishuu.mp3"
+    },
+    "raigetsu": {
+        "german": "nächster Monat",
+        "romaji": "raigetsu",
+        "hiragana": "らいげつ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/raigetsu.mp3"
+    },
+    "rainen": {
+        "german": "nächstes Jahr",
+        "romaji": "rainen",
+        "hiragana": "らいねん",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/rainen.mp3"
+    },
+    "senshuu": {
+        "german": "letzte Woche",
+        "romaji": "senshuu",
+        "hiragana": "せんしゅう",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/senshuu.mp3"
+    },
+    "sengetsu": {
+        "german": "letzter Monat",
+        "romaji": "sengetsu",
+        "hiragana": "せんげつ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/sengetsu.mp3"
+    },
+    "kyonen": {
+        "german": "letztes Jahr",
+        "romaji": "kyonen",
+        "hiragana": "きょねん",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/mix_vocab/kyonen.mp3"
+    }
+}

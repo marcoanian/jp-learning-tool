@@ -1,0 +1,302 @@
+{
+  "watashi": {
+    "hiragana": "わたし",
+    "romaji": "watashi",
+    "german": "ich"
+  },
+  "anata": {
+    "hiragana": "あなた",
+    "romaji": "anata",
+    "german": "du"
+  },
+  "kare": {
+    "hiragana": "かれ",
+    "romaji": "kare",
+    "german": "er"
+  },
+  "kanojo": {
+    "hiragana": "かのじょ",
+    "romaji": "kanojo",
+    "german": "sie"
+  },
+  "hai": {
+    "hiragana": "はい",
+    "romaji": "hai",
+    "german": "ja"
+  },
+  "iie": {
+    "hiragana": "いいえ",
+    "romaji": "iie",
+    "german": "nein"
+  },
+  "arigatou": {
+    "hiragana": "ありがとう",
+    "romaji": "arigatou",
+    "german": "danke"
+  },
+  "onegai": {
+    "hiragana": "おねがい",
+    "romaji": "onegai",
+    "german": "bitte"
+  },
+  "ohayou": {
+    "hiragana": "おはよう",
+    "romaji": "ohayou",
+    "german": "guten Morgen"
+  },
+  "konbanwa": {
+    "hiragana": "こんばんは",
+    "romaji": "konbanwa",
+    "german": "guten Abend"
+  },
+  "oyasumi": {
+    "hiragana": "おやすみ",
+    "romaji": "oyasumi",
+    "german": "gute Nacht"
+  },
+  "sayonara": {
+    "hiragana": "さようなら",
+    "romaji": "sayonara",
+    "german": "auf Wiedersehen"
+  },
+  "sumimasen": {
+    "hiragana": "すみません",
+    "romaji": "sumimasen",
+    "german": "Entschuldigung"
+  },
+  "gomennasai": {
+    "hiragana": "ごめんなさい",
+    "romaji": "gomennasai",
+    "german": "Entschuldigung (tief)"
+  },
+  "nihon": {
+    "hiragana": "にほん",
+    "romaji": "nihon",
+    "german": "Japan"
+  },
+  "nihongo": {
+    "hiragana": "にほんご",
+    "romaji": "nihongo",
+    "german": "japanisch"
+  },
+  "eigo": {
+    "hiragana": "えいご",
+    "romaji": "eigo",
+    "german": "englisch"
+  },
+  "kore": {
+    "hiragana": "これ",
+    "romaji": "kore",
+    "german": "dies"
+  },
+  "sore": {
+    "hiragana": "それ",
+    "romaji": "sore",
+    "german": "das"
+  },
+  "are": {
+    "hiragana": "あれ",
+    "romaji": "are",
+    "german": "jenes"
+  },
+  "dore": {
+    "hiragana": "どれ",
+    "romaji": "dore",
+    "german": "welches"
+  },
+  "itsu": {
+    "hiragana": "いつ",
+    "romaji": "itsu",
+    "german": "wann"
+  },
+  "nani": {
+    "hiragana": "なに",
+    "romaji": "nani",
+    "german": "was"
+  },
+  "ikura": {
+    "hiragana": "いくら",
+    "romaji": "ikura",
+    "german": "wie viel"
+  },
+  "takai": {
+    "hiragana": "たかい",
+    "romaji": "takai",
+    "german": "teuer"
+  },
+  "yasui": {
+    "hiragana": "やすい",
+    "romaji": "yasui",
+    "german": "billig"
+  },
+  "oishii": {
+    "hiragana": "おいしい",
+    "romaji": "oishii",
+    "german": "lecker"
+  },
+  "mazui": {
+    "hiragana": "まずい",
+    "romaji": "mazui",
+    "german": "schlecht schmeckend"
+  },
+  "atsui": {
+    "hiragana": "あつい",
+    "romaji": "atsui",
+    "german": "heiß"
+  },
+  "samui": {
+    "hiragana": "さむい",
+    "romaji": "samui",
+    "german": "kalt"
+  },
+  "kawaii": {
+    "hiragana": "かわいい",
+    "romaji": "kawaii",
+    "german": "süß"
+  },
+  "kowai": {
+    "hiragana": "こわい",
+    "romaji": "kowai",
+    "german": "gruselig"
+  },
+  "tanoshii": {
+    "hiragana": "たのしい",
+    "romaji": "tanoshii",
+    "german": "lustig"
+  },
+  "kurai": {
+    "hiragana": "くらい",
+    "romaji": "kurai",
+    "german": "dunkel"
+  },
+  "akarui": {
+    "hiragana": "あかるい",
+    "romaji": "akarui",
+    "german": "hell"
+  },
+  "ii": {
+    "hiragana": "いい",
+    "romaji": "ii",
+    "german": "gut"
+  },
+  "warui": {
+    "hiragana": "わるい",
+    "romaji": "warui",
+    "german": "schlecht"
+  },
+  "omoi": {
+    "hiragana": "おもい",
+    "romaji": "omoi",
+    "german": "schwer"
+  },
+  "karui": {
+    "hiragana": "かるい",
+    "romaji": "karui",
+    "german": "leicht"
+  },
+  "hajimemashite": {
+    "hiragana": "はじめまして",
+    "romaji": "hajimemashite",
+    "german": "freut mich"
+  },
+  "douzo": {
+    "hiragana": "どうぞ",
+    "romaji": "douzo",
+    "german": "bitte"
+  },
+  "doko": {
+    "hiragana": "どこ",
+    "romaji": "doko",
+    "german": "wo"
+  },
+  "nan": {
+    "hiragana": "なん",
+    "romaji": "nan",
+    "german": "was"
+  },
+  "dare": {
+    "hiragana": "だれ",
+    "romaji": "dare",
+    "german": "wer"
+  },
+      "zero": {
+    "hiragana": "ぜろ",
+    "romaji": "zero",
+    "german": "null"
+  },
+  "ichi": {
+    "hiragana": "いち",
+    "romaji": "ichi",
+    "german": "eins"
+  },
+  "ni": {
+    "hiragana": "に",
+    "romaji": "ni",
+    "german": "zwei"
+  },
+  "san": {
+    "hiragana": "さん",
+    "romaji": "san",
+    "german": "drei"
+  },
+  "yon": {
+    "hiragana": "よん",
+    "romaji": "yon",
+    "german": "vier"
+  },
+  "go": {
+    "hiragana": "ご",
+    "romaji": "go",
+    "german": "fünf"
+  },
+  "roku": {
+    "hiragana": "ろく",
+    "romaji": "roku",
+    "german": "sechs"
+  },
+  "nana": {
+    "hiragana": "なな",
+    "romaji": "nana",
+    "german": "sieben"
+  },
+  "hachi": {
+    "hiragana": "はち",
+    "romaji": "hachi",
+    "german": "acht"
+  },
+  "kyuu": {
+    "hiragana": "きゅう",
+    "romaji": "kyuu",
+    "german": "neun"
+  },
+  "juu": {
+    "hiragana": "じゅう",
+    "romaji": "juu",
+    "german": "zehn"
+  },
+  "mizu": {
+    "hiragana": "みず",
+    "romaji": "mizu",
+    "german": "wasser"
+  },
+  "tabemono": {
+    "hiragana": "たべもの",
+    "romaji": "tabemono",
+    "german": "essen"
+  },
+  "nomimono": {
+    "hiragana": "のみもの",
+    "romaji": "nomimono",
+    "german": "trinken"
+  },
+  "ie": {
+    "hiragana": "いえ",
+    "romaji": "ie",
+    "german": "haus"
+  },
+  "kuruma": {
+    "hiragana": "くるま",
+    "romaji": "kuruma",
+    "german": "auto"
+  }
+}

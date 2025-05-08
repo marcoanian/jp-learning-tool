@@ -1,0 +1,188 @@
+{
+    "watashi": {
+        "german": "ich",
+        "romaji": "watashi",
+        "hiragana": "わたし",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/watashi.mp3"
+    },
+    "watashi wa": {
+        "german": "ich (Subjekt, betont)",
+        "romaji": "watashi wa",
+        "hiragana": "わたしは",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/watashi_wa.mp3"
+    },
+    "watashi o": {
+        "german": "mich (Objekt)",
+        "romaji": "watashi o",
+        "hiragana": "わたしを",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/watashi_o.mp3"
+    },
+    "watashi no": {
+        "german": "mein(e)",
+        "romaji": "watashi no",
+        "hiragana": "わたしの",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/watashi_no.mp3"
+    },
+    "watashi no mono": {
+        "german": "meins",
+        "romaji": "watashi no mono",
+        "hiragana": "わたしのもの",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/watashi_no_mono.mp3"
+    },
+    "anata": {
+        "german": "du",
+        "romaji": "anata",
+        "hiragana": "あなた",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/anata.mp3"
+    },
+    "anata wa": {
+        "german": "du (Subjekt, betont)",
+        "romaji": "anata wa",
+        "hiragana": "あなたは",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/anata_wa.mp3"
+    },
+    "anata no": {
+        "german": "dein(e)",
+        "romaji": "anata no",
+        "hiragana": "あなたの",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/anata_no.mp3"
+    },
+    "anata no mono": {
+        "german": "deins",
+        "romaji": "anata no mono",
+        "hiragana": "あなたのもの",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/anata_no_mono.mp3"
+    },
+    "kare": {
+        "german": "er",
+        "romaji": "kare",
+        "hiragana": "かれ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/kare.mp3"
+    },
+    "kanojo": {
+        "german": "sie (fem.)",
+        "romaji": "kanojo",
+        "hiragana": "かのじょ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/kanojo.mp3"
+    },
+    "kare no": {
+        "german": "sein(e)",
+        "romaji": "kare no",
+        "hiragana": "かれの",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/kare_no.mp3"
+    },
+    "kanojo no": {
+        "german": "ihr(e)",
+        "romaji": "kanojo no",
+        "hiragana": "かのじょの",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/kanojo_no.mp3"
+    },
+    "watashitachi": {
+        "german": "wir",
+        "romaji": "watashitachi",
+        "hiragana": "わたしたち",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/watashitachi.mp3"
+    },
+    "anata-tachi": {
+        "german": "ihr",
+        "romaji": "anata-tachi",
+        "hiragana": "あなたたち",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/anata_tachi.mp3"
+    },
+    "karera": {
+        "german": "sie (pl. mask.)",
+        "romaji": "karera",
+        "hiragana": "かれら",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/karera.mp3"
+    },
+    "kanojotachi": {
+        "german": "sie (pl. fem.)",
+        "romaji": "kanojotachi",
+        "hiragana": "かのじょたち",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/kanojotachi.mp3"
+    },
+    "jibun": {
+        "german": "selbst / sich",
+        "romaji": "jibun",
+        "hiragana": "じぶん",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/jibun.mp3"
+    },
+    "boku": {
+        "german": "ich (männlich, höflich)",
+        "romaji": "boku",
+        "hiragana": "ぼく",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/boku.mp3"
+    },
+    "ore": {
+        "german": "ich (männlich, locker)",
+        "romaji": "ore",
+        "hiragana": "おれ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/ore.mp3"
+    },
+    "dare": {
+        "german": "wer",
+        "romaji": "dare",
+        "hiragana": "だれ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/dare.mp3"
+    },
+    "doko": {
+        "german": "wo",
+        "romaji": "doko",
+        "hiragana": "どこ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/doko.mp3"
+    },
+    "itsu": {
+        "german": "wann",
+        "romaji": "itsu",
+        "hiragana": "いつ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/itsu.mp3"
+    },
+    "nani": {
+        "german": "was",
+        "romaji": "nani",
+        "hiragana": "なに",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/nani.mp3"
+    },
+    "naze": {
+        "german": "warum",
+        "romaji": "naze",
+        "hiragana": "なぜ",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/naze.mp3"
+    },
+    "doushite": {
+        "german": "wieso / weshalb",
+        "romaji": "doushite",
+        "hiragana": "どうして",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/dōshite.mp3"
+    },
+    "dou": {
+        "german": "wie",
+        "romaji": "dou",
+        "hiragana": "どう",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/dō.mp3"
+    },
+    "sore wa nani?": {
+        "german": "Was ist das?",
+        "romaji": "sore wa nani?",
+        "hiragana": "それは なに？",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/sore_wa_nani.mp3"
+    },
+    "kore wa nani?": {
+        "german": "Was ist das hier?",
+        "romaji": "kore wa nani?",
+        "hiragana": "これは なに？",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/kore_wa_nani.mp3"
+    },
+    "sore wa dare?": {
+        "german": "Wer ist das?",
+        "romaji": "sore wa dare?",
+        "hiragana": "それは だれ？",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/sore_wa_dare.mp3"
+    },
+    "doko ni": {
+        "german": "wohin",
+        "romaji": "doko ni",
+        "hiragana": "どこに",
+        "audio": "D:/python_multi_section_code/Japanese_python_tools/jp_learning_tool_new_version/assets/audio/jp_prenomen/doko_ni.mp3"
+    }
+}

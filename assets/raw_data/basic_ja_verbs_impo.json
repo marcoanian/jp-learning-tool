@@ -1,0 +1,185 @@
+{
+  "getsuyoubi": {
+    "hiragana": "げつようび",
+    "romaji": "getsuyoubi",
+    "german": "Montag"
+  },
+  "kayoubi": {
+    "hiragana": "かようび",
+    "romaji": "kayoubi",
+    "german": "Dienstag"
+  },
+  "suiyoubi": {
+    "hiragana": "すいようび",
+    "romaji": "suiyoubi",
+    "german": "Mittwoch"
+  },
+  "mokuyoubi": {
+    "hiragana": "もくようび",
+    "romaji": "mokuyoubi",
+    "german": "Donnerstag"
+  },
+  "kinyoubi": {
+    "hiragana": "きんようび",
+    "romaji": "kinyoubi",
+    "german": "Freitag"
+  },
+  "doyoubi": {
+    "hiragana": "どようび",
+    "romaji": "doyoubi",
+    "german": "Samstag"
+  },
+  "nichiyoubi": {
+    "hiragana": "にちようび",
+    "romaji": "nichiyoubi",
+    "german": "Sonntag"
+  },
+  "ichi": {
+    "hiragana": "いち",
+    "romaji": "ichi",
+    "german": "eins"
+  },
+  "ni": {
+    "hiragana": "に",
+    "romaji": "ni",
+    "german": "zwei"
+  },
+  "san": {
+    "hiragana": "さん",
+    "romaji": "san",
+    "german": "drei"
+  },
+  "yon": {
+    "hiragana": "よん",
+    "romaji": "yon",
+    "german": "vier"
+  },
+  "go": {
+    "hiragana": "ご",
+    "romaji": "go",
+    "german": "fünf"
+  },
+  "roku": {
+    "hiragana": "ろく",
+    "romaji": "roku",
+    "german": "sechs"
+  },
+  "nana": {
+    "hiragana": "なな",
+    "romaji": "nana",
+    "german": "sieben"
+  },
+  "hachi": {
+    "hiragana": "はち",
+    "romaji": "hachi",
+    "german": "acht"
+  },
+  "kyuu": {
+    "hiragana": "きゅう",
+    "romaji": "kyuu",
+    "german": "neun"
+  },
+  "juu": {
+    "hiragana": "じゅう",
+    "romaji": "juu",
+    "german": "zehn"
+  },
+  "suru": {
+    "hiragana": "する",
+    "romaji": "suru",
+    "german": "machen / tun"
+  },
+  "iku": {
+    "hiragana": "いく",
+    "romaji": "iku",
+    "german": "gehen"
+  },
+  "kuru": {
+    "hiragana": "くる",
+    "romaji": "kuru",
+    "german": "kommen"
+  },
+  "taberu": {
+    "hiragana": "たべる",
+    "romaji": "taberu",
+    "german": "essen"
+  },
+  "miru": {
+    "hiragana": "みる",
+    "romaji": "miru",
+    "german": "sehen"
+  },
+  "kiku": {
+    "hiragana": "きく",
+    "romaji": "kiku",
+    "german": "hören / fragen"
+  },
+  "hanasu": {
+    "hiragana": "はなす",
+    "romaji": "hanasu",
+    "german": "sprechen"
+  },
+  "aru": {
+    "hiragana": "ある",
+    "romaji": "aru",
+    "german": "sein / haben (für Dinge)"
+  },
+  "iru": {
+    "hiragana": "いる",
+    "romaji": "iru",
+    "german": "sein / haben (für Lebewesen)"
+  },
+  "nomu": {
+    "hiragana": "のむ",
+    "romaji": "nomu",
+    "german": "trinken"
+  },
+  "kyou": {
+    "hiragana": "きょう",
+    "romaji": "kyou",
+    "german": "heute"
+  },
+  "ashita": {
+    "hiragana": "あした",
+    "romaji": "ashita",
+    "german": "morgen"
+  },
+  "kinou": {
+    "hiragana": "きのう",
+    "romaji": "kinou",
+    "german": "gestern"
+  },
+  "raishuu": {
+    "hiragana": "らいしゅう",
+    "romaji": "raishuu",
+    "german": "nächste Woche"
+  },
+  "raigetsu": {
+    "hiragana": "らいげつ",
+    "romaji": "raigetsu",
+    "german": "nächster Monat"
+  },
+  "rainen": {
+    "hiragana": "らいねん",
+    "romaji": "rainen",
+    "german": "nächstes Jahr"
+  },
+  "senshuu": {
+    "hiragana": "せんしゅう",
+    "romaji": "senshuu",
+    "german": "letzte Woche"
+  },
+  "sengetsu": {
+    "hiragana": "せんげつ",
+    "romaji": "sengetsu",
+    "german": "letzter Monat"
+  },
+  "kyonen": {
+    "hiragana": "きょねん",
+    "romaji": "kyonen",
+    "german": "letztes Jahr"
+  }
+}
+
+
+
